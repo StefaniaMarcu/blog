@@ -1,0 +1,80 @@
+.bg-image {
+	background: url('img/office.jpg');	
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	min-height: 75vh;
+}
+.nav {
+	color: grey;
+}
+.nav:hover {
+	color: #adad85;
+}
+
+.link:hover {
+	color:	 #66a3ff;
+}
+.background {
+	background: url('img/astronaut.png');
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	min-height: 95vh;
+	
+}
+.nav-2 {
+	color: white;
+}
+.nav-2:hover {
+	color:#2e2e1f;
+}
+
+.h1 {
+	font-size: 2.5em;
+	margin-bottom: .5rem;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.2;
+	color: inherit;
+	font-family: Cortana;
+}
+
+.h3 {
+	font-size: 1.75em;
+}
+h3 > a.custom-anchor-title:hover,
+div > a.custom-anchor-title:hover {
+	text-decoration: none;
+	color: #007bff !important;
+}
+.font-size-small {
+	font-size: 14px;
+}
+.bg-image-map {
+	background: url('img/map.jpg');	
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	min-height: 75vh;
+
+}
+.contact {
+	background: url('img/contact-bg.jpg');	
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	min-height: 75vh;
+	
+}
+.img{
+	opacity: 0.5;
+}
+	
+	
+	
+	
+	
+	
+	
+	
